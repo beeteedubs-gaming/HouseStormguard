@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ChooseWildAnimalSpawns.ChooseWildAnimalSpawns_Settings">
+		<CustomSpawnRates>
+			<keys>
+				<li>RG_AspenForest</li>
+			</keys>
+			<values>
+				<li>#ERN_Amaro:0.1#Fox_Arctic:0#Wolf_Arctic:0#AEXP_Badger:0.2#AEXP_Beaver:0.2#Bison:0.07#Outland_FockattBlack:0.03#Outland_FockattBlue:0.01#Outland_FockattBrown:0.03#Caribou:0#ESCP_TrollCave:0.04#Changewing:0.02#DankPyon_DireBoar:0.07#DankPyon_Direwolf:0.04306783#Donkey:0.2#Dramillion:0.02#Dreadstrider:0.02#Elk:0#ESCP_TrollFrost:0#Fury:0.02#Gazelle:0.3#Outland_FockattGrey:0.03#GuineaPig:0.45#AEXP_Hedgehog:1#ESCP_TrollHaemo:0#Horse:0#DankPyon_Hyena:0.2606725#AEXP_IndianElephant:0.034#ERN_Lox:0.3#Megasloth:0.2#RG_Neutrolope:0.01#DankPyon_NorthernBoar:0.07#pphhyy_NorthernHorse:0.3150742#AEXP_Platypus:0.05#RG_Rabbit:0.5#Razorwhip:0.02#Ruby_Razorwhip:0.02#AEXP_RedPanda:0.6#ESCP_TrollRiver:0.04#DankPyon_Rox:0.07#Stormcutter:0.02#Thunderdrum:0.02#Tortoise:0.3#Triple_Stryke:0.02#AEXP_WildGoose:0.5#BotchJob_Wraith:0.05#Yak:0.06</li>
+			</values>
+		</CustomSpawnRates>
+		<CustomDensities>
+			<keys>
+				<li>RG_AspenForest</li>
+			</keys>
+			<values>
+				<li>3.7</li>
+			</values>
+		</CustomDensities>
+	</ModSettings>
+</SettingsBlock>
